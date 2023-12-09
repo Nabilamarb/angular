@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 9600,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 8600,
+      "checked": true
+    },
+    {
+      "name": "nabila",
+      "price": "1233",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "nabila",
+      "price": "1233",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "nabila",
+      "price": "1233",
+      "checked": true,
+      "id": 6
+    }
+  ]
+}
