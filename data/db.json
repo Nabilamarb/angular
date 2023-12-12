@@ -47,6 +47,12 @@
       "price": "0122",
       "checked": true,
       "id": 8
+    },
+    {
+      "name": "k",
+      "price": 0,
+      "checked": false,
+      "id": 9
     }
   ]
 }
